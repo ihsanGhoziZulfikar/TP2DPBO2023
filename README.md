@@ -27,3 +27,5 @@
 * ![addAlbum2](https://user-images.githubusercontent.com/100748074/231059585-a7a88fe0-747f-4c73-9946-372cce4031c5.PNG)
 9. Jumlah album singer akan bertambah
 * ![addAlbum3](https://user-images.githubusercontent.com/100748074/231059874-7831571d-9161-414c-a3ac-912b97cf92b9.PNG)
+10. User dapat mengklik edit pada singer/album untuk mengedit data
+* ![edit](https://user-images.githubusercontent.com/100748074/231095891-65402858-081b-4043-9648-7771fc6cf6ce.png)
