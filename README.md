@@ -1,11 +1,11 @@
 #### Saya Ihsan Ghozi Zulfikar NIM 2103303 mengerjakan soal TP 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Kelas: Singer
-* terdiri dari id, name, album_count, dan photo
+* terdiri dari id (int), name (String), album_count (int), dan photo (byte[])
 
 ## Kelas Album
-* terdiri dari id, name, label, photo, dan singer
-* singer adalah objek Singer
+* terdiri dari id (int), name (String), label (String), photo (byte[]), dan singer (Singer)
+* singer adalah objek Singer karena album memiliki penyanyi
 
 ## Alur
 1. Program menampilkan form login
@@ -29,3 +29,5 @@
 * ![addAlbum3](https://user-images.githubusercontent.com/100748074/231059874-7831571d-9161-414c-a3ac-912b97cf92b9.PNG)
 10. User dapat mengklik edit pada singer/album untuk mengedit data
 * ![edit](https://user-images.githubusercontent.com/100748074/231095891-65402858-081b-4043-9648-7771fc6cf6ce.png)
+11. User dapat mengklik delete pada singer/album untuk menghapus data
+![delete](https://user-images.githubusercontent.com/100748074/231126404-6a2b7f8a-c238-4a69-80ad-a0abfd1a656c.PNG)
