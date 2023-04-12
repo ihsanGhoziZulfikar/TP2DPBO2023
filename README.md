@@ -1,11 +1,32 @@
 #### Saya Ihsan Ghozi Zulfikar NIM 2103303 mengerjakan soal TP 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Kelas: Singer
-* terdiri dari id (int), name (String), album_count (int), dan photo (byte[])
+* Menampung data singer dari database
 
 ## Kelas Album
-* terdiri dari id (int), name (String), label (String), photo (byte[]), dan singer (Singer)
-* singer adalah objek Singer karena album memiliki penyanyi
+* Menampung data album dari database
+* Album Memiliki Singer
+
+## Kelas dbConnection
+* Menampung data untuk menghubungkan ke database
+
+## Kelas LoginForm
+* Menampung data dan frame untuk login
+
+## Kelas HomeForm
+* Menampung data dan frame untuk menampilkan singer atau album
+
+## Kelas AddSingerForm
+* Menampung data dan frame untuk menambahkan singer baru ke database
+
+## Kelas AddAlbumForm
+* Menampung data dan frame untuk menambahkan album baru ke database
+
+## Dokumentasi
+1. UML
+* ![uml](https://user-images.githubusercontent.com/100748074/231386517-483d6362-e69b-48be-86d9-ea77df16aaeb.png)
+2. ERD
+* ![erd](https://user-images.githubusercontent.com/100748074/231386649-3687f9d7-c2c4-44ba-9487-03f78c9af452.PNG)
 
 ## Alur
 1. Program menampilkan form login
