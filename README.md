@@ -12,7 +12,7 @@
 * ![login](https://user-images.githubusercontent.com/100748074/231055424-294919b9-7ad7-41cd-aa9d-99f5d91eb523.png)
 2. User dapat mengisi data akun atau berpindah ke menu register untuk menambah akun baru
 * ![register](https://user-images.githubusercontent.com/100748074/231055714-11ae906c-fe3c-409e-a255-a6dad7d1ed08.PNG)
-3. Program menampilkan menu berisi list penyanyi, tombol penyanyi, tombol album, dan tombol add
+3. Program menampilkan menu berdasarkan akun login, berisi list penyanyi, tombol penyanyi, tombol album, dan tombol add
 * ![menuSinger](https://user-images.githubusercontent.com/100748074/231056080-c252293c-7ecb-40c8-b092-013ab3fbf455.PNG)
 4. User dapat mengklik tombol album untuk melihat menu list album
 * ![menuAlbum](https://user-images.githubusercontent.com/100748074/231056617-83da011d-4994-4d3c-bd7c-9756dba28c82.PNG)
