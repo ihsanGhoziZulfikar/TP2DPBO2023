@@ -1,5 +1,9 @@
 #### Saya Ihsan Ghozi Zulfikar NIM 2103303 mengerjakan soal TP 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
+### Akun:
+* username: admin
+* password: admin
+
 ## Kelas: Singer
 * Menampung data singer dari database
 
